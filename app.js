@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
   res.send("Welcome to the Android Server!");
 });
 
-app.get("/register", (req, res) => {
+app.post("/register", (req, res) => {
   console.log(req.body);
   res.send("Register endpoint on Android Server");
 })
