@@ -2,5 +2,24 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.2.1"
-  }
+  },
+  "name": "android",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sah-Ashok/Android.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sah-Ashok/Android/issues"
+  },
+  "homepage": "https://github.com/Sah-Ashok/Android#readme",
+  "description": ""
 }
